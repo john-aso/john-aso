@@ -3,7 +3,7 @@
 
 
 - 🔭 Em busca de um primeiro estagio
-- 🌱 Estudando Python
+- 🌱 Estudando Python - HTML5 - CSS3
 - 😄 Pronouns: Ele/Dele
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-aso)](https://github.com/anuraghazra/github-readme-stats)
