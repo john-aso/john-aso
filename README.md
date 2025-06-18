@@ -3,17 +3,19 @@
 
 
 - 🔭 Em busca de um primeiro estagio
-- 🌱 Estudando Python - HTML5 - CSS3
-- 😄 Pronouns: Ele/Dele
+- 🌱 Estudando HTML5 - CSS3 - JavaScript - Node.js - Python - SQL Server
+- 😄 Pronomes: Ele/Dele
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-aso)](https://github.com/anuraghazra/github-readme-stats)
   
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="John-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="John-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="John-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="John-Node.js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="John-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
 
